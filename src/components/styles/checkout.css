@@ -1,0 +1,43 @@
+.tier {
+  width: 100%;
+  height: auto;
+  max-width: 160px;
+}
+
+.arrow {
+  width: 100%;
+  height: auto;
+}
+
+.custom-h2 {
+  font-family: "Anton", sans-serif;
+}
+
+.fake-btn {
+  background-color: #e0e0e0;
+  font-size: 14px;
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
+  color: white;
+  border: none;
+}
+
+.logo-mp {
+  width: 100%;
+  height: auto;
+}
+
+button.mercadopago-button {
+  background-color: #009ee3;
+  font-size: 14px;
+  border-radius: 5px;
+  height: 40px;
+  width: 100%;
+  color: white;
+  border: none;
+}
+
+.hr {
+  border-bottom: 1px solid #e0e0e0;
+}

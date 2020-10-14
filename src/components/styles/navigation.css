@@ -1,0 +1,17 @@
+.logo {
+  font-family: "Anton", sans-serif;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.logo:hover {
+  text-decoration: none;
+}
+
+.logo .first {
+  color: #d35537;
+}
+
+.logo .last {
+  color: antiquewhite;
+}

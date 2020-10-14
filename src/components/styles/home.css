@@ -1,0 +1,48 @@
+h1 {
+  font-family: "Anton", sans-serif;
+}
+
+.custom-header {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.desc-box {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.desc-card {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.desc-card h3 {
+  font-family: "Anton", sans-serif;
+  color: antiquewhite;
+}
+
+.desc-card p {
+  color: #d3d3d3;
+}
+
+.all-ranks img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.feature-logo {
+  font-size: 45px;
+  width: 100px;
+  height: 100px;
+  color: #d35537;
+  border: 2px solid #d35537;
+  margin: auto;
+}
